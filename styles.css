@@ -98,12 +98,27 @@ h1 {
 .home-button {
 margin-top: 50px;
 margin-bottom: 50px;
+display: inline-block;
+  width: 150px;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 30px;
+  text-decoration: none;
+  color: #2d51a6;
+  background-color: #fff;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1), 0 10px 25px rgba(0, 0, 0, 0.5); /* Increased shadow */
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+  font-weight: bold; /* Slightly bolder text */
+  animation: twopulseAnimation 2s infinite;
+  text-shadow: none;
 }
 
 
 
   
-.home-button,
 .contact-button,
 .social-button,
 .project-button {
