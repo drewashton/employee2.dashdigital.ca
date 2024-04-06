@@ -96,9 +96,9 @@ h1 {
 
 
 .home-button {
-margin-top: 50px;
-margin-bottom: 50px;
-display: inline-block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: inline-block;
   width: 150px;
   padding: 15px;
   border-radius: 30px;
