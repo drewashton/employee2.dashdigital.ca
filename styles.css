@@ -567,7 +567,7 @@ h2, h3, a {
 }
 .mail-image {
   text-align: center;
-  margin-top: 0px; /* Adjust this value to control the space between the profile box and the mail image */
+  margin-top: -2px; /* Adjust this value to control the space between the profile box and the mail image */
 }
 
 .mail-image img {
